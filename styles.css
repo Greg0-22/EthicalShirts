@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+#section-1, #section-2, #section-3, #section-4, #footer {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#section-1, #footer {
+    background-color: #1F2937;
+}
+
+#section-1 {
+    padding-bottom: 100px;
+}
+
+#section-3 {
+    background-color: #E5E7EB;
+}
+
+#header-logo {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* .hero-text {
+    max-width: 100px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    list-style-type:none;
+    gap: 16px;   
+}
